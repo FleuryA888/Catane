@@ -1,0 +1,14 @@
+{
+  "name": "catane",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Une île, des ressources et de grandes ambitions. Jeu de plateau local pour 3 à 4 joueurs.",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "test": "node --test",
+    "build": "node scripts/build.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
