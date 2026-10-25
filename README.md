@@ -7,7 +7,7 @@ Une adaptation indépendante et jouable du **jeu de base de Catane**, en frança
 Avec **Node.js 22 ou ultérieur**, sans installation de dépendances :
 
 ```sh
-npm start
+npm.cmd start
 ```
 
 Ouvrir **http://127.0.0.1:4173**. `node scripts/serve.mjs` fonctionne également si npm n’est pas disponible. La variable `PORT` permet de choisir un autre port.
